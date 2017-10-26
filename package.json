@@ -1,0 +1,24 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp server",
+    "import": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Roberto Gonzalez @ragonzalezm19",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
